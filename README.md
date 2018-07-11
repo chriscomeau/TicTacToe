@@ -1,5 +1,7 @@
 # TicTacToe
-Unity TicTacToe game
+Casual TicTacToe game in Unity/C# (in progress)
+
+![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/tictactoe_icon.PNG)
 
 
 ##### Notes
@@ -18,4 +20,5 @@ Unity TicTacToe game
 
 ##### Screenshot
 
-...	
+![screenshot 1](https://github.com/chriscomeau/TicTacToe/blob/master/images/tictactoe1.PNG)
+![screenshot 2](https://github.com/chriscomeau/TicTacToe/blob/master/images/tictactoe2.PNG)
