@@ -1,7 +1,7 @@
 # TicTacToe
 Casual TicTacToe game in Unity/C# (in progress)
 
-**🚨 The app is currently in development. 🚨**
+**🚧 The app is currently in development 🚧**
 
 ![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/tictactoe_icon.PNG)
 
